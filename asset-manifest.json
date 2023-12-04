@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LeonardoPlins/frontendlp/static/css/main.1aa1b982.css",
+    "main.js": "/LeonardoPlins/frontendlp/static/js/main.2f65a22c.js",
+    "index.html": "/LeonardoPlins/frontendlp/index.html",
+    "main.1aa1b982.css.map": "/LeonardoPlins/frontendlp/static/css/main.1aa1b982.css.map",
+    "main.2f65a22c.js.map": "/LeonardoPlins/frontendlp/static/js/main.2f65a22c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1aa1b982.css",
+    "static/js/main.2f65a22c.js"
+  ]
+}
